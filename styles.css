@@ -1,0 +1,15 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    /* background-image: url("https://th.bing.com/th/id/OIP.IhhFLN8dCzPOuABfG0PR8QHaEK?rs=1&pid=ImgDetMain"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.heading-one{
+    font-family: Georgia;
+    color: red;
+}
